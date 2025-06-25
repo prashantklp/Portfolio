@@ -10,7 +10,7 @@ import {
   DiHtml5,
   DiCss3,
   DiGit,
-  DiJava,
+  DiJava
 } from "react-icons/di";
 import {
   SiRedis,

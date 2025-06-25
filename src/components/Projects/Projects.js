@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import Annasetu from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import WalletTracker from "../../Assets/Projects/Wallet.png";
 import SNR from "../../Assets/Projects/SNRjewels.png";
@@ -62,16 +62,16 @@ Enabled users to manage their cash flow efficiently, overcoming challenges in da
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={Annasetu}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="ANNASETU"
+              description="ANNASETU is a Food Donation Management System designed to facilitate the collection and distribution of surplus food to those in need. Our goal is to minimize food waste and help feed the hungry by connecting donors with food banks and shelters."
+              ghLink="https://github.com/prashantklp/ANNASETU"
+              // demoLink="https://plant49-ai.herokuapp.com/"
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
@@ -83,7 +83,7 @@ Enabled users to manage their cash flow efficiently, overcoming challenges in da
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col> */}
-{/* 
+         {/* { 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
@@ -94,7 +94,7 @@ Enabled users to manage their cash flow efficiently, overcoming challenges in da
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col> } */}
         </Row>
       </Container>
     </Container>

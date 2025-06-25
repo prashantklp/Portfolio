@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Prashant Lodh </span>
             from <span className="purple"> Mumbai, Maharashtra</span>
             <br />
-            I am currently employed as a Full Stack Developer in KK Classes and Comminications.
+            I am currently employed as a Full Stack Developer in Probot Software Solutions Pvt Ltd.
             <br />
             I have completed Bsc In Information Technology.
             <br />

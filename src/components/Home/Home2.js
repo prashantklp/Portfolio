@@ -29,24 +29,23 @@ function Home2() {
               <br />
               I’m particularly interested in building&nbsp;
               <i>
-                <b className="purple">modern web applications and scalable digital products </b> afrom e-commerce platforms to management systems.{" "}
+                <b className="purple">modern-day websites using full-stack technologies,</b> from e-commerce platforms to management systems.{" "}
                 {/* <b className="purple">
                   Blockchain.
                 </b> */}
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I enjoy crafting <b className="purple">responsive, efficient,</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                 user-friendly web applications that solve
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> real-world problems.</b>
               </i>
             </p>
           </Col>
